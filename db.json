@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "445c",
+      "name": "vere",
+      "email": "verenaatef938@gmail.com",
+      "password": "123qweQW@"
+    },
+    {
+      "id": "e8d4",
+      "name": "verena",
+      "email": "verenaatef938@gmail.com",
+      "password": "123qweQ@"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "adel",
+      "body": "wellcom to my site ",
+      "img": "https://static.hiamag.com/inline-images/242486400_411450193675388_3413843437877687800_n.jpg"
+    }
+  ]
+}
